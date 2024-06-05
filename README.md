@@ -9,7 +9,7 @@ Uncomment the "convert" line if you'd rather use ImageMagick than libvips (the l
 Simply execute the script using a keybind and/or use it with swayidle!
 
 Requirements:
-    -   sway
-    -   swaylock
-    -   grim
-    -   libvips *or* ImageMagick
+-sway
+-swaylock
+-grim
+-libvips *or* ImageMagick
